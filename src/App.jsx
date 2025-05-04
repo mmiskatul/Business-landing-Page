@@ -1,6 +1,7 @@
 import './App.css'
 import Navbar from './component/Navbar'
 import Hero from './component/Hero'
+import CompanyLogo from './component/CompanyLogo'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <div className='overflow-hidden'>
         <Navbar />
         <Hero />
+        <CompanyLogo/>
       </div>
     </main>
   )
