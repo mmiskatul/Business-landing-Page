@@ -42,3 +42,5 @@ A modern, responsive landing page for a business growth platform built with Reac
 1. Clone the repository:
    ```bash
    git clone https://github.com/mmiskatul/React-Landing-Page.git
+
+ 2.Demo Link :https://business-landing-pa.netlify.app/
