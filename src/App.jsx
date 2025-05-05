@@ -7,6 +7,7 @@ import FeatureSection from './component/FeatureSection'
 import ScheduleSection from './component/ScheduleSection'
 import MonitorSection from './component/MonitorSection'
 import PricingSection from './component/PricingSection'
+import ServiceSection from './component/ServiceSection'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <ScheduleSection/>
         <MonitorSection/>
         <PricingSection/>
+        <ServiceSection/>
       </div>
     </main>
   )
