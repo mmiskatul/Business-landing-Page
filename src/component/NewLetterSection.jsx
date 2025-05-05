@@ -3,7 +3,7 @@ import { HiArrowRight } from "react-icons/hi";
 
 function NewLetterSection() {
   return (
-    <section className="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8">
+    <section className="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8" id="newsletter">
       <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl overflow-hidden shadow-xl">
         <div className="relative px-6 py-16 md:px-16 md:py-24">
           {/* Background Overlay */}
