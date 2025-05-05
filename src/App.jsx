@@ -5,6 +5,7 @@ import CompanyLogo from './component/CompanyLogo'
 import PurposeSection from './component/PurposeSection'
 import FeatureSection from './component/FeatureSection'
 import ScheduleSection from './component/ScheduleSection'
+import MonitorSection from './component/MonitorSection'
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <PurposeSection/>
         <FeatureSection/>
         <ScheduleSection/>
+        <MonitorSection/>
       </div>
     </main>
   )
