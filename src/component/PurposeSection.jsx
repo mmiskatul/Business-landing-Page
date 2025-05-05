@@ -16,7 +16,7 @@ export default function PurposeSection() {
     },
   ];
   return (
-    <section className="w-full bg-gray-50 py-16 px-4 sm:px-6 md:px-8 mt-15">
+    <section id="about" className="w-full bg-gray-50 py-16 px-4 sm:px-6 md:px-8 mt-15">
       <div className="max-w-6xl  mx-auto">
         <div className="grid md:grid-cols-3 grid-col-1 gap-8 ">
           {/* HEADING TEXT  */}
