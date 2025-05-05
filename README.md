@@ -2,7 +2,7 @@
 
 A modern, responsive landing page for a business growth platform built with React and Tailwind CSS. This project showcases various sections including hero, features, pricing, testimonials, and more to help businesses boost their growth.
 
-![Project Preview](https://example.com/preview-image.jpg) <!-- Replace with actual image URL -->
+ <!-- Replace with actual image URL -->
 
 ## Features
 
@@ -28,12 +28,14 @@ A modern, responsive landing page for a business growth platform built with Reac
 2. Hero Section
 3. Company Logos Marquee
 4. Features Section
-5. Purpose Section
-6. Monitor Section
-7. Schedule Section
-8. Pricing Section
-9. Newsletter Section
-10. Footer
+5. Services Section
+6. Purpose Section
+7. Testimonials Section
+8. Monitor Section
+9. Schedule Section
+10. Pricing Section
+11. Newsletter Section
+12. Footer
 
 ## Installation
 
