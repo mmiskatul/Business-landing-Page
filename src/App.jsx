@@ -2,6 +2,7 @@ import './App.css'
 import Navbar from './component/Navbar'
 import Hero from './component/Hero'
 import CompanyLogo from './component/CompanyLogo'
+import PurposeSection from './component/PurposeSection'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Navbar />
         <Hero />
         <CompanyLogo/>
+        <PurposeSection/>
       </div>
     </main>
   )

@@ -5,15 +5,15 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="container mx-auto flex flex-col md:flex-row items-center justify-between pt-44 pb-6 px-4 sm:px-6 lg:px-8"
+      className="container mx-auto flex  flex-col md:flex-row items-center justify-between pt-44 pb-6 px-4 sm:px-6 lg:px-8"
     >
       {/* Left Content */}
       <div className="w-full md:w-1/2 space-y-8">
-        <div className="flex px-4 py-2 gap-2 bg-gray-50 rounded-full w-fit items-center hover:bg-gray-100 transition-colors cursor-pointer group">
+        <div className="flex px-4 py-2 gap-2 z-50 bg-gray-50 rounded-full w-fit items-center hover:bg-gray-100 transition-colors cursor-pointer group">
           <span className="text-blue-600 hover:text-amber-400 group-hover:scale-110 transition-transform">
             ⭐
           </span>
-          <span className="text-sm font-medium text-gray-400 group-hover:text-gray-950 transition-transform">
+          <span className="text-sm  font-medium text-gray-400 group-hover:text-gray-950 transition-transform">
             Jump start your growth
           </span>
         </div>
